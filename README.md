@@ -19,4 +19,4 @@ Enter a value in the input field and click the "Convert" button. The app will in
 
 ## Live Demo:
 
-Check out the deployed project here: [Unit Converter Web App](https://gregoiregeoffroy.github.io/Unit-Converter-Web-App/)
+Check out the deployed project here: [Unit Converter Web App](https://gregoiregeoffroy.github.io/Unit-Converter-Web-App/index.html)
