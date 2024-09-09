@@ -1,5 +1,9 @@
 # Unit-Converter-Web-App
 
+## Live Demo:
+
+Check out the deployed project here: [Unit Converter Web App](https://gregoiregeoffroy.github.io/Unit-Converter-Web-App/index.html)
+
 ## Features
 
 - Convert between meters and feet
@@ -16,7 +20,3 @@ Enter a value in the input field and click the "Convert" button. The app will in
 - HTML
 - CSS
 - JavaScript
-
-## Live Demo:
-
-Check out the deployed project here: [Unit Converter Web App](https://gregoiregeoffroy.github.io/Unit-Converter-Web-App/index.html)
